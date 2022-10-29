@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1667069739664" clover="3.2.0">
+  <project timestamp="1667069739664" name="All files">
+    <metrics statements="28" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5" elements="34" coveredelements="27" complexity="0" loc="28" ncloc="28" packages="1" files="1" classes="1"/>
+    <file name="LinkedList.js" path="/home/zayed/algo-ds/reverse-linkedlist/LinkedList.js">
+      <metrics statements="28" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="45" count="5" type="stmt"/>
+      <line num="46" count="5" type="stmt"/>
+      <line num="47" count="5" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="3" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
